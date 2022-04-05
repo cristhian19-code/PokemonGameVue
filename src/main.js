@@ -1,4 +1,7 @@
 import { createApp } from 'vue'
 import App from './App.vue'
 
-createApp(App).mount('#app')
+import "@/css/index.css";
+import "@/css/animations.css";
+
+createApp(App).mount("#app");
